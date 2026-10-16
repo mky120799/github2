@@ -1,0 +1,5 @@
+Enter your email id 
+Enter your your password 
+ReEnter your password in order to confirm password
+Enter you company name 
+Enter your date of birth
