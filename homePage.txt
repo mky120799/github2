@@ -1,0 +1,5 @@
+This is the homePage File 
+-- menu bar
+-- hero section
+-- blog no. 1
+-- blog no. 2
