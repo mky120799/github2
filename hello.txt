@@ -17,7 +17,7 @@ twelth line
 
 14th line of the file
 15th line of the file
-16th line of the file  -- conflict
+16th line of the file -- THEIRS: register content
 
 
  
